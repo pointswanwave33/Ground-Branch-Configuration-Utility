@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Ground-Branch-Configuration-Utility` · Updated: 2026-10-07
+`Ground-Branch-Configuration-Utility` · Updated: 2026-10-24
 
 **Tags:** `ground-branch` `config` `tactical` `fps` `steam`
